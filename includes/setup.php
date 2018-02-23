@@ -52,5 +52,6 @@ $auth		= new Auth($db, $config, $lang);
 $msg		= new Messages($lang);		
 $email		= new Email($db, $config);
 $detect		= new Mobile_Detect();
+$refNo		= new ReferenceNo();
 
 ?>
