@@ -1,0 +1,1337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d8b8d0a-1406-42b8-af5c-fcaa6bfe61d1" name="Default" comment="" />
+    <ignored path="pcm.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="pcm" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="vertical" split-proportion="0.68111455">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="class.units.php" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/includes/modules/class.units.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.41129032" vertical-offset="2125" max-vertical-offset="13549">
+                  <caret line="319" column="17" selection-start-line="319" selection-start-column="17" selection-end-line="319" selection-end-column="17" />
+                  <folding>
+                    <element signature="n#is_image#0;n#Units#0;n#!!top" expanded="true" />
+                    <element signature="n#print_tiled_latest_entries#0;n#Units#0;n#!!top" expanded="true" />
+                    <element signature="n#print_latest_updates#0;n#Units#0;n#!!top" expanded="true" />
+                    <element signature="n#print_item_list#0;n#Units#0;n#!!top" expanded="true" />
+                    <element signature="n#print_item_info#0;n#Units#0;n#!!top" expanded="true" />
+                    <element signature="n#print_serial_logs#0;n#Units#0;n#!!top" expanded="true" />
+                    <element signature="n#print_all_logs#0;n#Units#0;n#!!top" expanded="true" />
+                    <element signature="n#print_all_drs#0;n#Units#0;n#!!top" expanded="true" />
+                    <element signature="n#print_all_delivery#0;n#Units#0;n#!!top" expanded="true" />
+                    <element signature="n#print_attachments#0;n#Units#0;n#!!top" expanded="true" />
+                    <element signature="n#add_search#0;n#Units#0;n#!!top" expanded="true" />
+                    <element signature="n#getEntryCount#0;n#Units#0;n#!!top" expanded="true" />
+                    <element signature="n#getNotifCount#0;n#Units#0;n#!!top" expanded="true" />
+                    <element signature="n#check_parts_libs#0;n#Units#0;n#!!top" expanded="true" />
+                    <marker date="1480143345019" expanded="true" signature="567:605" placeholder="SELECT * FRO..pcm_list..." />
+                    <marker date="1480143345019" expanded="true" signature="646:686" placeholder="SELECT * FRO..pcm_statistics_underrepair..." />
+                    <marker date="1480143345019" expanded="true" signature="729:766" placeholder="SELECT * FRO..pcm_statistics_repaired..." />
+                    <marker date="1480143345019" expanded="true" signature="815:852" placeholder="SELECT * FRO..pcm_statistics_nodefect..." />
+                    <marker date="1480143345019" expanded="true" signature="909:950" placeholder="SELECT * FRO..pcm_statistics_beyondrepair..." />
+                    <marker date="1480143345019" expanded="true" signature="1020:1064" placeholder="SELECT * FRO..pcm_statistics_claimedwarranty..." />
+                    <marker date="1480143345019" expanded="true" signature="1129:1172" placeholder="SELECT * FRO..pcm_statistics_withinwarranty..." />
+                    <marker date="1480143345019" expanded="true" signature="1266:1308" placeholder="SELECT * FRO..pcm_statistics_repaired_nodr..." />
+                    <marker date="1480143345019" expanded="true" signature="1382:1429" placeholder="SELECT * FRO..pcm_statistics_repaired_notpicode..." />
+                    <marker date="1480143345019" expanded="false" signature="1618:1643" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="1888:2049" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="2143:2191" placeholder="SELECT * FRO..pcm_brands..." />
+                    <marker date="1480143345019" expanded="true" signature="2369:2418" placeholder="SELECT * FRO..pcm_list..." />
+                    <marker date="1480143345019" expanded="true" signature="2455:2505" placeholder="SELECT * FRO..pcm_statistics_repaired..." />
+                    <marker date="1480143345019" expanded="true" signature="2544:2597" placeholder="SELECT * FRO..pcm_statistics_notrepaired..." />
+                    <marker date="1480143345019" expanded="true" signature="3724:4125" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="4291:4340" placeholder="SELECT * FRO..pcm_list..." />
+                    <marker date="1480143345019" expanded="true" signature="4387:4437" placeholder="SELECT * FRO..pcm_statistics_repaired..." />
+                    <marker date="1480143345019" expanded="true" signature="4493:4546" placeholder="SELECT * FRO..pcm_statistics_notrepaired..." />
+                    <marker date="1480143345019" expanded="false" signature="4789:4814" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="5059:5220" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="5293:5425" placeholder="SELECT DISTI..." />
+                    <marker date="1480143345019" expanded="true" signature="5598:5666" placeholder="SELECT * FRO..pcm_list..." />
+                    <marker date="1480143345019" expanded="false" signature="5829:5854" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="6666:7203" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="6702:7192" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="7300:7359" placeholder="SELECT * FRO..pcm_user_activities..." />
+                    <marker date="1480143345019" expanded="true" signature="7407:7457" placeholder="SELECT * FRO..pcm_user_activities..." />
+                    <marker date="1480143345019" expanded="true" signature="8380:8429" placeholder="SELECT * FRO..pcm_search..." />
+                    <marker date="1480143345019" expanded="true" signature="8782:8834" placeholder="SELECT * FRO..pcm_search..." />
+                    <marker date="1480143345019" expanded="true" signature="9201:9268" placeholder="SELECT * FRO..pcm_serials..." />
+                    <marker date="1480143345019" expanded="true" signature="10320:10387" placeholder="SELECT * FRO..pcm_serials..." />
+                    <marker date="1480143345019" expanded="true" signature="11829:12259" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="11888:12070" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="12119:12232" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="12464:12542" placeholder="SELECT * FRO..pcm_serials..." />
+                    <marker date="1480143345019" expanded="true" signature="13390:13468" placeholder="SELECT * FRO..pcm_serials..." />
+                    <marker date="1480143345019" expanded="true" signature="15322:15677" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="15322:15772" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="15381:15515" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="15381:15583" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="15632:15677" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="15632:15745" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="15997:16046" placeholder="SELECT * FRO..pcm_notif..." />
+                    <marker date="1480143345019" expanded="true" signature="16094:16134" placeholder="SELECT * FRO..pcm_notif..." />
+                    <marker date="1480143345019" expanded="true" signature="17360:17683" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="17422:17531" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="17581:17656" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="17862:17902" placeholder="SELECT * FRO..pcm_brands..." />
+                    <marker date="1480143345019" expanded="true" signature="18266:18314" placeholder="SELECT * FRO..pcm_requisitioners..." />
+                    <marker date="1480143345019" expanded="true" signature="18680:18725" placeholder="SELECT * FRO..pcm_technicians..." />
+                    <marker date="1480143345019" expanded="true" signature="19100:19140" placeholder="SELECT * FRO..pcm_status..." />
+                    <marker date="1480143345019" expanded="true" signature="19484:19569" placeholder="SELECT conca..installers..." />
+                    <marker date="1480143345019" expanded="true" signature="19782:19848" placeholder="SELECT * FRO..pcm_list..." />
+                    <marker date="1480143345019" expanded="true" signature="20087:20177" placeholder="SELECT * FRO..pcm_list..." />
+                    <marker date="1480143345019" expanded="true" signature="20290:20918" placeholder="SELECT * FRO..pcm_list..." />
+                    <marker date="1480143345019" expanded="true" signature="22165:22227" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="22274:22337" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="24555:24601" placeholder="SELECT * FRO..pcm_attachments..." />
+                    <marker date="1480143345019" expanded="true" signature="24776:24825" placeholder="SELECT * FRO..pcm_repair_history..." />
+                    <marker date="1480143345019" expanded="true" signature="28534:28947" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="28534:29382" placeholder="..." />
+                    <marker date="1480143345019" expanded="false" signature="29260:29271" placeholder="..." />
+                    <marker date="1480143345019" expanded="false" signature="29333:29346" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="29467:29515" placeholder="SELECT * FRO..pcm_list..." />
+                    <marker date="1480143345019" expanded="true" signature="30445:30503" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="30549:30608" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="30810:30974" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="31816:31859" placeholder="SELECT * FRO..pcm_attachments..." />
+                    <marker date="1480143345019" expanded="true" signature="31938:31984" placeholder="SELECT * FRO..pcm_repair_history..." />
+                    <marker date="1480143345019" expanded="true" signature="32974:33107" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="33199:33453" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="33632:33731" placeholder="SELECT * FRO..pcm_repair_history..." />
+                    <marker date="1480143345019" expanded="true" signature="34232:34489" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="34273:34390" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="34421:34479" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="34650:34756" placeholder="SELECT count..." />
+                    <marker date="1480143345019" expanded="true" signature="34917:35010" placeholder="SELECT repai..pcm_repair_history..." />
+                    <marker date="1480143345019" expanded="true" signature="35335:35626" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="35360:35626" placeholder="..." />
+                    <marker date="1480143345019" expanded="false" signature="35401:35427" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="35428:35510" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="35541:35626" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="35574:35626" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="35743:36103" placeholder="..." />
+                    <marker date="1480143345019" expanded="false" signature="35799:35812" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="35813:35964" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="35906:35947" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="36000:36087" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="36361:36638" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="36406:36614" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="36421:36573" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="36754:36886" placeholder="SELECT count..." />
+                    <marker date="1480143345019" expanded="true" signature="37415:37586" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="37608:37681" placeholder="SELECT * FRO..pcm_serials..." />
+                    <marker date="1480143345019" expanded="true" signature="39021:39123" placeholder="SELECT count..." />
+                    <marker date="1480143345019" expanded="true" signature="39355:39526" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="39548:39621" placeholder="SELECT * FRO..pcm_serials..." />
+                    <marker date="1480143345019" expanded="true" signature="40665:40761" placeholder="SELECT * FRO..pcm_attachments..." />
+                    <marker date="1480143345019" expanded="true" signature="40789:40871" placeholder="SELECT * FRO..pcm_attachments..." />
+                    <marker date="1480143345019" expanded="true" signature="42105:42163" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="42478:42535" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="43335:43825" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="43360:43807" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="43391:43794" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="43422:43508" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="43541:43633" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="43580:43618" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="43667:43780" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="43712:43765" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="44340:44426" placeholder="SELECT * FRO..pcm_serials..." />
+                    <marker date="1480143345019" expanded="true" signature="44545:44568" placeholder="SELECT * FRO..pcm_notif..." />
+                    <marker date="1480143345019" expanded="true" signature="44702:44792" placeholder="SELECT brand..pcm_serials..." />
+                    <marker date="1480143345019" expanded="true" signature="45232:45289" placeholder="SELECT * FRO..pcm_parts_libraries..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="entry.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/entry.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-7.8461537" vertical-offset="8942" max-vertical-offset="9537">
+                  <caret line="538" column="38" selection-start-line="538" selection-start-column="38" selection-end-line="538" selection-end-column="38" />
+                  <folding>
+                    <marker date="1480141920835" expanded="true" signature="644:680" placeholder="SELECT * FRO..pcm_serials..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="create_delivery.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/includes/actions/create_delivery.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="25.5" vertical-offset="663" max-vertical-offset="1377">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="add_delivery_sn.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/includes/actions/add_delivery_sn.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="21.576923" vertical-offset="561" max-vertical-offset="1972">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="home.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/home.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-28.23077" vertical-offset="473" max-vertical-offset="3927">
+                  <caret line="71" column="45" selection-start-line="71" selection-start-column="42" selection-end-line="71" selection-end-column="45" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="data.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/data.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-9.115385" vertical-offset="3792" max-vertical-offset="7650">
+                  <caret line="237" column="76" selection-start-line="237" selection-start-column="76" selection-end-line="237" selection-end-column="76" />
+                  <folding>
+                    <element signature="n#style#0;n#select#0;n#div#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#option#0;n#select#0;n#div#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#select#0;n#div#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#option#0;n#select#0;n#div#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+                    <marker date="1480140374914" expanded="true" signature="168:204" placeholder="SELECT * FRO..pcm_serials..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="class.units.php" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/includes/modules/class.units.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.8181818" vertical-offset="3989" max-vertical-offset="13549">
+                  <caret line="530" column="33" selection-start-line="530" selection-start-column="19" selection-end-line="531" selection-end-column="0" />
+                  <folding>
+                    <element signature="n#is_image#0;n#Units#0;n#!!top" expanded="true" />
+                    <element signature="n#print_tiled_latest_entries#0;n#Units#0;n#!!top" expanded="true" />
+                    <element signature="n#print_latest_updates#0;n#Units#0;n#!!top" expanded="true" />
+                    <element signature="n#print_tiled_latest_updates#0;n#Units#0;n#!!top" expanded="true" />
+                    <element signature="n#print_item_info#0;n#Units#0;n#!!top" expanded="true" />
+                    <element signature="n#print_serial_logs#0;n#Units#0;n#!!top" expanded="true" />
+                    <element signature="n#print_all_logs#0;n#Units#0;n#!!top" expanded="true" />
+                    <element signature="n#print_all_drs#0;n#Units#0;n#!!top" expanded="true" />
+                    <element signature="n#print_all_delivery#0;n#Units#0;n#!!top" expanded="true" />
+                    <element signature="n#print_attachments#0;n#Units#0;n#!!top" expanded="true" />
+                    <element signature="n#add_search#0;n#Units#0;n#!!top" expanded="true" />
+                    <element signature="n#getEntryCount#0;n#Units#0;n#!!top" expanded="true" />
+                    <element signature="n#getNotifCount#0;n#Units#0;n#!!top" expanded="true" />
+                    <element signature="n#check_parts_libs#0;n#Units#0;n#!!top" expanded="true" />
+                    <marker date="1480143345019" expanded="true" signature="567:605" placeholder="SELECT * FRO..pcm_list..." />
+                    <marker date="1480143345019" expanded="true" signature="646:686" placeholder="SELECT * FRO..pcm_statistics_underrepair..." />
+                    <marker date="1480143345019" expanded="true" signature="729:766" placeholder="SELECT * FRO..pcm_statistics_repaired..." />
+                    <marker date="1480143345019" expanded="true" signature="815:852" placeholder="SELECT * FRO..pcm_statistics_nodefect..." />
+                    <marker date="1480143345019" expanded="true" signature="909:950" placeholder="SELECT * FRO..pcm_statistics_beyondrepair..." />
+                    <marker date="1480143345019" expanded="true" signature="1020:1064" placeholder="SELECT * FRO..pcm_statistics_claimedwarranty..." />
+                    <marker date="1480143345019" expanded="true" signature="1129:1172" placeholder="SELECT * FRO..pcm_statistics_withinwarranty..." />
+                    <marker date="1480143345019" expanded="true" signature="1266:1308" placeholder="SELECT * FRO..pcm_statistics_repaired_nodr..." />
+                    <marker date="1480143345019" expanded="true" signature="1382:1429" placeholder="SELECT * FRO..pcm_statistics_repaired_notpicode..." />
+                    <marker date="1480143345019" expanded="false" signature="1618:1643" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="1888:2049" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="2143:2191" placeholder="SELECT * FRO..pcm_brands..." />
+                    <marker date="1480143345019" expanded="true" signature="2369:2418" placeholder="SELECT * FRO..pcm_list..." />
+                    <marker date="1480143345019" expanded="true" signature="2455:2505" placeholder="SELECT * FRO..pcm_statistics_repaired..." />
+                    <marker date="1480143345019" expanded="true" signature="2544:2597" placeholder="SELECT * FRO..pcm_statistics_notrepaired..." />
+                    <marker date="1480143345019" expanded="true" signature="3724:4125" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="4291:4340" placeholder="SELECT * FRO..pcm_list..." />
+                    <marker date="1480143345019" expanded="true" signature="4387:4437" placeholder="SELECT * FRO..pcm_statistics_repaired..." />
+                    <marker date="1480143345019" expanded="true" signature="4493:4546" placeholder="SELECT * FRO..pcm_statistics_notrepaired..." />
+                    <marker date="1480143345019" expanded="false" signature="4789:4814" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="5059:5220" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="5293:5425" placeholder="SELECT DISTI..." />
+                    <marker date="1480143345019" expanded="true" signature="5598:5666" placeholder="SELECT * FRO..pcm_list..." />
+                    <marker date="1480143345019" expanded="false" signature="5829:5854" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="6666:7203" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="6702:7192" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="7300:7359" placeholder="SELECT * FRO..pcm_user_activities..." />
+                    <marker date="1480143345019" expanded="true" signature="7407:7457" placeholder="SELECT * FRO..pcm_user_activities..." />
+                    <marker date="1480143345019" expanded="true" signature="8380:8429" placeholder="SELECT * FRO..pcm_search..." />
+                    <marker date="1480143345019" expanded="true" signature="8782:8834" placeholder="SELECT * FRO..pcm_search..." />
+                    <marker date="1480143345019" expanded="true" signature="9201:9268" placeholder="SELECT * FRO..pcm_serials..." />
+                    <marker date="1480143345019" expanded="true" signature="10320:10387" placeholder="SELECT * FRO..pcm_serials..." />
+                    <marker date="1480143345019" expanded="true" signature="11829:12259" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="11888:12070" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="12119:12232" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="12464:12542" placeholder="SELECT * FRO..pcm_serials..." />
+                    <marker date="1480143345019" expanded="true" signature="13390:13468" placeholder="SELECT * FRO..pcm_serials..." />
+                    <marker date="1480143345019" expanded="true" signature="15322:15677" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="15322:15772" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="15381:15583" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="15632:15677" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="15632:15745" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="15997:16046" placeholder="SELECT * FRO..pcm_notif..." />
+                    <marker date="1480143345019" expanded="true" signature="16094:16134" placeholder="SELECT * FRO..pcm_notif..." />
+                    <marker date="1480143345019" expanded="true" signature="17360:17683" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="17422:17531" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="17581:17656" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="17862:17902" placeholder="SELECT * FRO..pcm_brands..." />
+                    <marker date="1480143345019" expanded="true" signature="18266:18314" placeholder="SELECT * FRO..pcm_requisitioners..." />
+                    <marker date="1480143345019" expanded="true" signature="18680:18725" placeholder="SELECT * FRO..pcm_technicians..." />
+                    <marker date="1480143345019" expanded="true" signature="19100:19140" placeholder="SELECT * FRO..pcm_status..." />
+                    <marker date="1480143345019" expanded="true" signature="19484:19569" placeholder="SELECT conca..installers..." />
+                    <marker date="1480143345019" expanded="true" signature="19782:19848" placeholder="SELECT * FRO..pcm_list..." />
+                    <marker date="1480143345019" expanded="true" signature="20087:20177" placeholder="SELECT * FRO..pcm_list..." />
+                    <marker date="1480143345019" expanded="true" signature="20290:20918" placeholder="SELECT * FRO..pcm_list..." />
+                    <marker date="1480143345019" expanded="true" signature="22165:22227" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="22274:22337" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="24555:24601" placeholder="SELECT * FRO..pcm_attachments..." />
+                    <marker date="1480143345019" expanded="true" signature="24776:24825" placeholder="SELECT * FRO..pcm_repair_history..." />
+                    <marker date="1480143345019" expanded="true" signature="28534:28947" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="28534:29382" placeholder="..." />
+                    <marker date="1480143345019" expanded="false" signature="29260:29271" placeholder="..." />
+                    <marker date="1480143345019" expanded="false" signature="29333:29346" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="29467:29515" placeholder="SELECT * FRO..pcm_list..." />
+                    <marker date="1480143345019" expanded="true" signature="30445:30503" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="30549:30608" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="30810:30974" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="31816:31859" placeholder="SELECT * FRO..pcm_attachments..." />
+                    <marker date="1480143345019" expanded="true" signature="31938:31984" placeholder="SELECT * FRO..pcm_repair_history..." />
+                    <marker date="1480143345019" expanded="true" signature="32974:33107" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="33199:33453" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="33632:33731" placeholder="SELECT * FRO..pcm_repair_history..." />
+                    <marker date="1480143345019" expanded="true" signature="34232:34489" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="34273:34390" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="34421:34479" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="34650:34756" placeholder="SELECT count..." />
+                    <marker date="1480143345019" expanded="true" signature="34917:35010" placeholder="SELECT repai..pcm_repair_history..." />
+                    <marker date="1480143345019" expanded="true" signature="35335:35626" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="35360:35626" placeholder="..." />
+                    <marker date="1480143345019" expanded="false" signature="35401:35427" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="35428:35510" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="35541:35626" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="35574:35626" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="35743:36103" placeholder="..." />
+                    <marker date="1480143345019" expanded="false" signature="35799:35812" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="35813:35964" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="35906:35947" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="36000:36087" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="36361:36638" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="36406:36614" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="36421:36573" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="36754:36886" placeholder="SELECT count..." />
+                    <marker date="1480143345019" expanded="true" signature="37415:37586" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="37608:37681" placeholder="SELECT * FRO..pcm_serials..." />
+                    <marker date="1480143345019" expanded="true" signature="39021:39123" placeholder="SELECT count..." />
+                    <marker date="1480143345019" expanded="true" signature="39355:39526" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="39548:39621" placeholder="SELECT * FRO..pcm_serials..." />
+                    <marker date="1480143345019" expanded="true" signature="40665:40761" placeholder="SELECT * FRO..pcm_attachments..." />
+                    <marker date="1480143345019" expanded="true" signature="40789:40871" placeholder="SELECT * FRO..pcm_attachments..." />
+                    <marker date="1480143345019" expanded="true" signature="42105:42163" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="42478:42535" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="43335:43825" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="43360:43807" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="43391:43794" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="43422:43508" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="43541:43633" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="43580:43618" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="43667:43780" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="43712:43765" placeholder="..." />
+                    <marker date="1480143345019" expanded="true" signature="44340:44426" placeholder="SELECT * FRO..pcm_serials..." />
+                    <marker date="1480143345019" expanded="true" signature="44545:44568" placeholder="SELECT * FRO..pcm_notif..." />
+                    <marker date="1480143345019" expanded="true" signature="44702:44792" placeholder="SELECT brand..pcm_serials..." />
+                    <marker date="1480143345019" expanded="true" signature="45232:45289" placeholder="SELECT * FRO..pcm_parts_libraries..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/assets/index.html" />
+        <option value="$PROJECT_DIR$/includes/actions/logs.php" />
+        <option value="$PROJECT_DIR$/includes/actions/generate_parts.php" />
+        <option value="$PROJECT_DIR$/assets/css/capture.css" />
+        <option value="$PROJECT_DIR$/assets/js/marianz.capture.js" />
+        <option value="$PROJECT_DIR$/pages/capture.php" />
+        <option value="$PROJECT_DIR$/includes/templates/html-top_header.php" />
+        <option value="$PROJECT_DIR$/includes/actions/create_delivery.php" />
+        <option value="$PROJECT_DIR$/includes/templates/html-side_profile.php" />
+        <option value="$PROJECT_DIR$/pages/activities.php" />
+        <option value="$PROJECT_DIR$/includes/templates/html-header.php" />
+        <option value="$PROJECT_DIR$/includes/templates/html-side_notif.php" />
+        <option value="$PROJECT_DIR$/pages/logs.php" />
+        <option value="$PROJECT_DIR$/includes/templates/html-side_bar.php" />
+        <option value="$PROJECT_DIR$/includes/actions/maintenance.php" />
+        <option value="$PROJECT_DIR$/pages/attachments.php" />
+        <option value="$PROJECT_DIR$/includes/exports/tsr.php" />
+        <option value="$PROJECT_DIR$/assets/js/marianz.varia.js" />
+        <option value="$PROJECT_DIR$/includes/actions/locking.php" />
+        <option value="$PROJECT_DIR$/includes/templates/html-footer.php" />
+        <option value="$PROJECT_DIR$/includes/actions/entry.php" />
+        <option value="$PROJECT_DIR$/pages/summary.php" />
+        <option value="$PROJECT_DIR$/includes/modules/class.captcha.php" />
+        <option value="$PROJECT_DIR$/assets/css/base.css" />
+        <option value="$PROJECT_DIR$/includes/setup.php" />
+        <option value="$PROJECT_DIR$/pages/home.php" />
+        <option value="$PROJECT_DIR$/pages/settings.php" />
+        <option value="$PROJECT_DIR$/pages/delivery.php" />
+        <option value="$PROJECT_DIR$/includes/modules/class.maintenance.php" />
+        <option value="$PROJECT_DIR$/c.php" />
+        <option value="$PROJECT_DIR$/capture.php" />
+        <option value="$PROJECT_DIR$/logout.php" />
+        <option value="$PROJECT_DIR$/assets/js/marianz.app.js" />
+        <option value="$PROJECT_DIR$/pages/data_group.php" />
+        <option value="$PROJECT_DIR$/pages/maintenance.php" />
+        <option value="$PROJECT_DIR$/includes/modules/class.pdo.db.php" />
+        <option value="$PROJECT_DIR$/includes/actions/import.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/pages/details_status.php" />
+        <option value="$PROJECT_DIR$/includes/modules/class.delivery.php" />
+        <option value="$PROJECT_DIR$/pages/data.php" />
+        <option value="$PROJECT_DIR$/pages/entry.php" />
+        <option value="$PROJECT_DIR$/includes/modules/class.units.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <exe-path />
+    <config-path />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pcm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pcm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pcm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pcm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pcm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pcm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pcm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pcm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pcm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pcm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pcm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exports" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pcm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pcm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="actions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tlr_new" />
+    <property name="options.lastSelected" value="editor.preferences.smartKeys" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="js.buildTools.gulp.node_interpreter" value="" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\pcm" />
+      <recent name="C:\wamp\www\pcm\assets\plugins" />
+      <recent name="C:\wamp\www\pcm\pages" />
+      <recent name="C:\wamp\www\pcm\includes\actions" />
+      <recent name="C:\wamp\www\pcm\assets\plugins\modernizer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.php">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="ChromiumRemoteDebugType" factoryName="Chromium Remote">
+      <option name="name" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeWebKit" factoryName="Node-webkit">
+      <option name="name" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-env-vars>true</pass-parent-env-vars>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="false" name="index.php" type="JavascriptDebugType" factoryName="JavaScript Debug" nameIsGenerated="true" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63342/pcm/index.php">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.php" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d8b8d0a-1406-42b8-af5c-fcaa6bfe61d1" name="Default" comment="" />
+      <created>1474873283366</created>
+      <option name="number" value="Default" />
+      <updated>1474873283366</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19838946" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3993808" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40866873" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47832817" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3993808" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="10" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assets/plugins/webcam/webcam.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.2082644" vertical-offset="2546" max-vertical-offset="3383">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="618">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22006473" vertical-offset="0" max-vertical-offset="618">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/html-side_bar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49913645" vertical-offset="0" max-vertical-offset="1105">
+          <caret line="17" column="79" selection-start-line="17" selection-start-column="79" selection-end-line="17" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/setup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="4.0384617" vertical-offset="462" max-vertical-offset="1054">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/marianz.varia.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="11" max-vertical-offset="1377">
+          <caret line="54" column="18" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capture.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.384615" vertical-offset="1159" max-vertical-offset="1479">
+          <caret line="117" column="0" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.384615" vertical-offset="207" max-vertical-offset="527">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/libraries/fpdf/font/courierb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="238">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/libraries/fpdf/font/courierbi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="238">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/libraries/fpdf/font/courier.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="238">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/libraries/fpdf/fpdf.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="459">
+          <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/modules/class.captcha.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.9615386" vertical-offset="373" max-vertical-offset="833">
+          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/plugins/autocomplete/jquery.easy-autocomplete.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="24253" max-vertical-offset="26078">
+          <caret line="1520" column="8" selection-start-line="1520" selection-start-column="8" selection-end-line="1520" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/plugins/footable/footable.core.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="521" max-vertical-offset="3825">
+          <caret line="44" column="21" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/html-footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-32.384617" vertical-offset="3306" max-vertical-offset="4267">
+          <caret line="244" column="4" selection-start-line="244" selection-start-column="4" selection-end-line="244" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.1538463" vertical-offset="198" max-vertical-offset="3383">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.1538463" vertical-offset="215" max-vertical-offset="2601">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.1538463" vertical-offset="572" max-vertical-offset="2210">
+          <caret line="40" column="53" selection-start-line="40" selection-start-column="53" selection-end-line="40" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/html-top_header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="969">
+          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/maintenance.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.8076923" vertical-offset="4542" max-vertical-offset="9010">
+          <caret line="273" column="49" selection-start-line="273" selection-start-column="49" selection-end-line="273" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/marianz.app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="9735" max-vertical-offset="16728">
+          <caret line="824" column="73" selection-start-line="824" selection-start-column="73" selection-end-line="824" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/html-side_profile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="680">
+          <caret line="3" column="72" selection-start-line="3" selection-start-column="72" selection-end-line="3" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/libraries/fpdf/fpdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.9615386" vertical-offset="1019" max-vertical-offset="5627">
+          <caret line="76" column="32" selection-start-line="76" selection-start-column="32" selection-end-line="76" selection-end-column="32" />
+          <folding>
+            <element signature="n#FPDF#0;n#FPDF#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/plugins/footable/footable.all.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="640" max-vertical-offset="11730">
+          <caret line="64" column="39" selection-start-line="64" selection-start-column="39" selection-end-line="64" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/base.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3666" max-vertical-offset="54536">
+          <caret line="229" column="12" selection-start-line="229" selection-start-column="12" selection-end-line="229" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/delivery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="4029">
+          <caret line="4" column="66" selection-start-line="4" selection-start-column="66" selection-end-line="4" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/modules/class.pdo.db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="517" max-vertical-offset="4403">
+          <caret line="94" column="9" selection-start-line="94" selection-start-column="9" selection-end-line="94" selection-end-column="9" />
+          <folding>
+            <element signature="n#cleanup#0;n#db#0;n#!!top" expanded="true" />
+            <element signature="n#insert#0;n#db#0;n#!!top" expanded="true" />
+            <element signature="n#getRowCounts#0;n#db#0;n#!!top" expanded="true" />
+            <element signature="n#getColumns#0;n#db#0;n#!!top" expanded="true" />
+            <element signature="n#getTableRowsCount#0;n#db#0;n#!!top" expanded="true" />
+            <element signature="n#getResults#0;n#db#0;n#!!top" expanded="true" />
+            <element signature="n#run#0;n#db#0;n#!!top" expanded="true" />
+            <element signature="n#select#0;n#db#0;n#!!top" expanded="true" />
+            <element signature="n#exist#0;n#db#0;n#!!top" expanded="true" />
+            <element signature="n#setErrorCallbackFunction#0;n#db#0;n#!!top" expanded="true" />
+            <element signature="n#update#0;n#db#0;n#!!top" expanded="true" />
+            <element signature="n#getValue#0;n#db#0;n#!!top" expanded="true" />
+            <element signature="n#getLastValue#0;n#db#0;n#!!top" expanded="true" />
+            <element signature="n#tableExist#0;n#db#0;n#!!top" expanded="true" />
+            <element signature="n#getTables#0;n#db#0;n#!!top" expanded="true" />
+            <element signature="n#getJsonResult#0;n#db#0;n#!!top" expanded="true" />
+            <element signature="n#exceptionLog#0;n#db#0;n#!!top" expanded="true" />
+            <marker date="1479290559781" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1479290559781" expanded="true" signature="-1:-1" placeholder="SELECT colum..columns..." />
+            <marker date="1479290559781" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1479290559781" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..table..." />
+            <marker date="1479290559781" expanded="true" signature="-1:-1" placeholder="SELECT * FRO.._table WHERE..." />
+            <marker date="1479290559781" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..table..." />
+            <marker date="1479290559781" expanded="true" signature="-1:-1" placeholder="SELECT * FRO.._table WHERE..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/exports/print.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="2669">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding>
+            <element signature="n#PDF#0;n#!!top" expanded="true" />
+            <marker date="1472104841812" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..clus_orders..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/c.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="50" max-vertical-offset="476">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/modules/class.maintenance.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="92" max-vertical-offset="2482">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+          <folding>
+            <element signature="n#print_table_rows#0;n#Maintenance#0;n#!!top" expanded="true" />
+            <element signature="n#get_fullname#0;n#Maintenance#0;n#!!top" expanded="true" />
+            <marker date="1479290115329" expanded="true" signature="-1:-1" placeholder="SELECT * FRO.._table WHERE..." />
+            <marker date="1479290115329" expanded="true" signature="-1:-1" placeholder="SELECT * FRO.._table WHERE..." />
+            <marker date="1479290115329" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1479290115329" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1479290115329" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1479290115329" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1479290115329" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1479290115329" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..pcm_requisitioners..." />
+            <marker date="1479290115329" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1479290115329" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1479290115329" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1479290115329" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1479290115329" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..pcm_brands..." />
+            <marker date="1479290115329" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1479290115329" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1479290115329" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1479290115329" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1479290115329" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..pcm_requisitioners..." />
+            <marker date="1479290115329" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1479290115329" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1479290115329" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1479290115329" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1479290115329" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..pcm_requisitioners..." />
+            <marker date="1479290115329" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..pcm_requisitioners..." />
+            <marker date="1479290115329" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..pcm_requisitioners..." />
+            <marker date="1479290115329" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..pcm_list..." />
+            <marker date="1479290115329" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1479290115329" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1479290115329" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..pcm_attachments..." />
+            <marker date="1479290115329" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..pcm_repair_history..." />
+            <marker date="1479290115329" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1479290115329" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1479290115329" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1479290115329" expanded="true" signature="-1:-1" placeholder="SELECT conca..installers..." />
+            <marker date="1479290115329" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1479290115329" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1479290115329" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1479290115329" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1479290115329" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1479290115329" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1479290115329" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/modules/class.paginator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="748">
+          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+          <folding>
+            <element signature="n#paging_query#0;n#Paginator#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/actions/import.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="20" max-vertical-offset="2312">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/libraries/files/password.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.730769" vertical-offset="2366" max-vertical-offset="3145">
+          <caret line="240" column="7" selection-start-line="240" selection-start-column="7" selection-end-line="240" selection-end-column="7" />
+          <folding>
+            <element signature="e#744#6174#0#PHP" expanded="false" />
+            <element signature="e#9099#9569#0#PHP" expanded="false" />
+            <element signature="n#_strlen#0;n#!!block;n#binary#0;n#!!top" expanded="false" />
+            <element signature="n#_substr#0;n#!!block;n#binary#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/exports/tsr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0" vertical-offset="1791" max-vertical-offset="2380">
+          <caret line="472" column="61" selection-start-line="472" selection-start-column="26" selection-end-line="472" selection-end-column="61" />
+          <folding>
+            <marker date="1475275495602" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..tb..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/logs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.038462" vertical-offset="2824" max-vertical-offset="3213">
+          <caret line="183" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="183" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="20.923077" vertical-offset="714" max-vertical-offset="2618">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/data_group.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-83.03846" vertical-offset="0" max-vertical-offset="3978">
+          <caret line="127" column="36" selection-start-line="124" selection-start-column="36" selection-end-line="133" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/details_status.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1915493" vertical-offset="884" max-vertical-offset="2567">
+          <caret line="56" column="49" selection-start-line="56" selection-start-column="49" selection-end-line="56" selection-end-column="49" />
+          <folding>
+            <element signature="e#6#92#0#PHP" expanded="true" />
+            <marker date="1480132709310" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..pcm_serials..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/modules/class.email.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="429">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/modules/class.delivery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.384615" vertical-offset="3607" max-vertical-offset="6120">
+          <caret line="282" column="37" selection-start-line="282" selection-start-column="37" selection-end-line="282" selection-end-column="37" />
+          <folding>
+            <element signature="n#print_latest_deliveries#0;n#Delivery#0;n#!!top" expanded="true" />
+            <element signature="n#print_deliveries_summary#0;n#Delivery#0;n#!!top" expanded="true" />
+            <element signature="n#print_deliveries#0;n#Delivery#0;n#!!top" expanded="true" />
+            <element signature="n#delivery_noDR#0;n#Delivery#0;n#!!top" expanded="true" />
+            <element signature="n#print_select_delivery#0;n#Delivery#0;n#!!top" expanded="true" />
+            <element signature="n#print_top_search#0;n#Delivery#0;n#!!top" expanded="true" />
+            <element signature="n#shuffle_arrays#0;n#Delivery#0;n#!!top" expanded="true" />
+            <element signature="n#get_random_parts#0;n#Delivery#0;n#!!top" expanded="true" />
+            <marker date="1480133081222" expanded="true" signature="-1:-1" placeholder="CREATE TABLE..IF..." />
+            <marker date="1480133081222" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..table..." />
+            <marker date="1480133081222" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1480133081222" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1480133081222" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1480133081222" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..view..." />
+            <marker date="1480133081222" expanded="true" signature="-1:-1" placeholder="SELECT disti..view..." />
+            <marker date="1480133081222" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1480133081222" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1480133081222" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..tbl..." />
+            <marker date="1480133081222" expanded="true" signature="-1:-1" placeholder="DROP TABLE I..." />
+            <marker date="1480133081222" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..tbl..." />
+            <marker date="1480133081222" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..pcm_search..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-28.23077" vertical-offset="473" max-vertical-offset="3927">
+          <caret line="71" column="45" selection-start-line="71" selection-start-column="42" selection-end-line="71" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/actions/create_delivery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="25.5" vertical-offset="663" max-vertical-offset="1377">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/actions/settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1156">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1474029661988" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..config..." />
+            <marker date="1474029661988" expanded="true" signature="-1:-1" placeholder="UPDATE confi..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/actions/maintenance.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.59100205" vertical-offset="680" max-vertical-offset="5066">
+          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+          <folding>
+            <marker date="1475269300941" expanded="true" signature="-1:-1" placeholder="SELECT * FRO.._table WHERE..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/actions/add_delivery_sn_s.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.49804688" vertical-offset="255" max-vertical-offset="1394">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/actions/add_delivery_sn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="21.576923" vertical-offset="561" max-vertical-offset="1972">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/data.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.115385" vertical-offset="3792" max-vertical-offset="7650">
+          <caret line="237" column="76" selection-start-line="237" selection-start-column="76" selection-end-line="237" selection-end-column="76" />
+          <folding>
+            <element signature="n#style#0;n#select#0;n#div#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#option#0;n#select#0;n#div#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#option#0;n#select#0;n#div#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+            <marker date="1480140374914" expanded="true" signature="168:204" placeholder="SELECT * FRO..pcm_serials..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/actions/entry.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.0253906" vertical-offset="1632" max-vertical-offset="5423">
+          <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/entry.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.8461537" vertical-offset="8942" max-vertical-offset="9537">
+          <caret line="538" column="38" selection-start-line="538" selection-start-column="38" selection-end-line="538" selection-end-column="38" />
+          <folding>
+            <marker date="1480141920835" expanded="true" signature="644:680" placeholder="SELECT * FRO..pcm_serials..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/modules/class.units.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41129032" vertical-offset="2125" max-vertical-offset="13549">
+          <caret line="319" column="17" selection-start-line="319" selection-start-column="17" selection-end-line="319" selection-end-column="17" />
+          <folding>
+            <element signature="n#is_image#0;n#Units#0;n#!!top" expanded="true" />
+            <element signature="n#print_tiled_latest_entries#0;n#Units#0;n#!!top" expanded="true" />
+            <element signature="n#print_latest_updates#0;n#Units#0;n#!!top" expanded="true" />
+            <element signature="n#print_item_list#0;n#Units#0;n#!!top" expanded="true" />
+            <element signature="n#print_item_info#0;n#Units#0;n#!!top" expanded="true" />
+            <element signature="n#print_serial_logs#0;n#Units#0;n#!!top" expanded="true" />
+            <element signature="n#print_all_logs#0;n#Units#0;n#!!top" expanded="true" />
+            <element signature="n#print_all_drs#0;n#Units#0;n#!!top" expanded="true" />
+            <element signature="n#print_all_delivery#0;n#Units#0;n#!!top" expanded="true" />
+            <element signature="n#print_attachments#0;n#Units#0;n#!!top" expanded="true" />
+            <element signature="n#add_search#0;n#Units#0;n#!!top" expanded="true" />
+            <element signature="n#getEntryCount#0;n#Units#0;n#!!top" expanded="true" />
+            <element signature="n#getNotifCount#0;n#Units#0;n#!!top" expanded="true" />
+            <element signature="n#check_parts_libs#0;n#Units#0;n#!!top" expanded="true" />
+            <marker date="1480143345019" expanded="true" signature="567:605" placeholder="SELECT * FRO..pcm_list..." />
+            <marker date="1480143345019" expanded="true" signature="646:686" placeholder="SELECT * FRO..pcm_statistics_underrepair..." />
+            <marker date="1480143345019" expanded="true" signature="729:766" placeholder="SELECT * FRO..pcm_statistics_repaired..." />
+            <marker date="1480143345019" expanded="true" signature="815:852" placeholder="SELECT * FRO..pcm_statistics_nodefect..." />
+            <marker date="1480143345019" expanded="true" signature="909:950" placeholder="SELECT * FRO..pcm_statistics_beyondrepair..." />
+            <marker date="1480143345019" expanded="true" signature="1020:1064" placeholder="SELECT * FRO..pcm_statistics_claimedwarranty..." />
+            <marker date="1480143345019" expanded="true" signature="1129:1172" placeholder="SELECT * FRO..pcm_statistics_withinwarranty..." />
+            <marker date="1480143345019" expanded="true" signature="1266:1308" placeholder="SELECT * FRO..pcm_statistics_repaired_nodr..." />
+            <marker date="1480143345019" expanded="true" signature="1382:1429" placeholder="SELECT * FRO..pcm_statistics_repaired_notpicode..." />
+            <marker date="1480143345019" expanded="false" signature="1618:1643" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="1888:2049" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="2143:2191" placeholder="SELECT * FRO..pcm_brands..." />
+            <marker date="1480143345019" expanded="true" signature="2369:2418" placeholder="SELECT * FRO..pcm_list..." />
+            <marker date="1480143345019" expanded="true" signature="2455:2505" placeholder="SELECT * FRO..pcm_statistics_repaired..." />
+            <marker date="1480143345019" expanded="true" signature="2544:2597" placeholder="SELECT * FRO..pcm_statistics_notrepaired..." />
+            <marker date="1480143345019" expanded="true" signature="3724:4125" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="4291:4340" placeholder="SELECT * FRO..pcm_list..." />
+            <marker date="1480143345019" expanded="true" signature="4387:4437" placeholder="SELECT * FRO..pcm_statistics_repaired..." />
+            <marker date="1480143345019" expanded="true" signature="4493:4546" placeholder="SELECT * FRO..pcm_statistics_notrepaired..." />
+            <marker date="1480143345019" expanded="false" signature="4789:4814" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="5059:5220" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="5293:5425" placeholder="SELECT DISTI..." />
+            <marker date="1480143345019" expanded="true" signature="5598:5666" placeholder="SELECT * FRO..pcm_list..." />
+            <marker date="1480143345019" expanded="false" signature="5829:5854" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="6666:7203" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="6702:7192" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="7300:7359" placeholder="SELECT * FRO..pcm_user_activities..." />
+            <marker date="1480143345019" expanded="true" signature="7407:7457" placeholder="SELECT * FRO..pcm_user_activities..." />
+            <marker date="1480143345019" expanded="true" signature="8380:8429" placeholder="SELECT * FRO..pcm_search..." />
+            <marker date="1480143345019" expanded="true" signature="8782:8834" placeholder="SELECT * FRO..pcm_search..." />
+            <marker date="1480143345019" expanded="true" signature="9201:9268" placeholder="SELECT * FRO..pcm_serials..." />
+            <marker date="1480143345019" expanded="true" signature="10320:10387" placeholder="SELECT * FRO..pcm_serials..." />
+            <marker date="1480143345019" expanded="true" signature="11829:12259" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="11888:12070" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="12119:12232" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="12464:12542" placeholder="SELECT * FRO..pcm_serials..." />
+            <marker date="1480143345019" expanded="true" signature="13390:13468" placeholder="SELECT * FRO..pcm_serials..." />
+            <marker date="1480143345019" expanded="true" signature="15322:15677" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="15322:15772" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="15381:15515" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="15381:15583" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="15632:15677" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="15632:15745" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="15997:16046" placeholder="SELECT * FRO..pcm_notif..." />
+            <marker date="1480143345019" expanded="true" signature="16094:16134" placeholder="SELECT * FRO..pcm_notif..." />
+            <marker date="1480143345019" expanded="true" signature="17360:17683" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="17422:17531" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="17581:17656" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="17862:17902" placeholder="SELECT * FRO..pcm_brands..." />
+            <marker date="1480143345019" expanded="true" signature="18266:18314" placeholder="SELECT * FRO..pcm_requisitioners..." />
+            <marker date="1480143345019" expanded="true" signature="18680:18725" placeholder="SELECT * FRO..pcm_technicians..." />
+            <marker date="1480143345019" expanded="true" signature="19100:19140" placeholder="SELECT * FRO..pcm_status..." />
+            <marker date="1480143345019" expanded="true" signature="19484:19569" placeholder="SELECT conca..installers..." />
+            <marker date="1480143345019" expanded="true" signature="19782:19848" placeholder="SELECT * FRO..pcm_list..." />
+            <marker date="1480143345019" expanded="true" signature="20087:20177" placeholder="SELECT * FRO..pcm_list..." />
+            <marker date="1480143345019" expanded="true" signature="20290:20918" placeholder="SELECT * FRO..pcm_list..." />
+            <marker date="1480143345019" expanded="true" signature="22165:22227" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="22274:22337" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="24555:24601" placeholder="SELECT * FRO..pcm_attachments..." />
+            <marker date="1480143345019" expanded="true" signature="24776:24825" placeholder="SELECT * FRO..pcm_repair_history..." />
+            <marker date="1480143345019" expanded="true" signature="28534:28947" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="28534:29382" placeholder="..." />
+            <marker date="1480143345019" expanded="false" signature="29260:29271" placeholder="..." />
+            <marker date="1480143345019" expanded="false" signature="29333:29346" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="29467:29515" placeholder="SELECT * FRO..pcm_list..." />
+            <marker date="1480143345019" expanded="true" signature="30445:30503" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="30549:30608" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="30810:30974" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="31816:31859" placeholder="SELECT * FRO..pcm_attachments..." />
+            <marker date="1480143345019" expanded="true" signature="31938:31984" placeholder="SELECT * FRO..pcm_repair_history..." />
+            <marker date="1480143345019" expanded="true" signature="32974:33107" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="33199:33453" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="33632:33731" placeholder="SELECT * FRO..pcm_repair_history..." />
+            <marker date="1480143345019" expanded="true" signature="34232:34489" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="34273:34390" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="34421:34479" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="34650:34756" placeholder="SELECT count..." />
+            <marker date="1480143345019" expanded="true" signature="34917:35010" placeholder="SELECT repai..pcm_repair_history..." />
+            <marker date="1480143345019" expanded="true" signature="35335:35626" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="35360:35626" placeholder="..." />
+            <marker date="1480143345019" expanded="false" signature="35401:35427" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="35428:35510" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="35541:35626" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="35574:35626" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="35743:36103" placeholder="..." />
+            <marker date="1480143345019" expanded="false" signature="35799:35812" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="35813:35964" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="35906:35947" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="36000:36087" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="36361:36638" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="36406:36614" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="36421:36573" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="36754:36886" placeholder="SELECT count..." />
+            <marker date="1480143345019" expanded="true" signature="37415:37586" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="37608:37681" placeholder="SELECT * FRO..pcm_serials..." />
+            <marker date="1480143345019" expanded="true" signature="39021:39123" placeholder="SELECT count..." />
+            <marker date="1480143345019" expanded="true" signature="39355:39526" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="39548:39621" placeholder="SELECT * FRO..pcm_serials..." />
+            <marker date="1480143345019" expanded="true" signature="40665:40761" placeholder="SELECT * FRO..pcm_attachments..." />
+            <marker date="1480143345019" expanded="true" signature="40789:40871" placeholder="SELECT * FRO..pcm_attachments..." />
+            <marker date="1480143345019" expanded="true" signature="42105:42163" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="42478:42535" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="43335:43825" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="43360:43807" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="43391:43794" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="43422:43508" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="43541:43633" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="43580:43618" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="43667:43780" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="43712:43765" placeholder="..." />
+            <marker date="1480143345019" expanded="true" signature="44340:44426" placeholder="SELECT * FRO..pcm_serials..." />
+            <marker date="1480143345019" expanded="true" signature="44545:44568" placeholder="SELECT * FRO..pcm_notif..." />
+            <marker date="1480143345019" expanded="true" signature="44702:44792" placeholder="SELECT brand..pcm_serials..." />
+            <marker date="1480143345019" expanded="true" signature="45232:45289" placeholder="SELECT * FRO..pcm_parts_libraries..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

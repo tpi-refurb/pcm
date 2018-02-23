@@ -1,0 +1,5 @@
+2018-02-20
+	-add summary folder in attachment directory
+	-fixed exception in missing filename (includes/exports/bs.php)
+	-fixed exception in missing filename (includes/exports/ps.php)
+	-modified query string (includes/modules/class.units.php)
