@@ -1,0 +1,6 @@
+#ignore all PDF files
+*.pdf
+*.PDF
+
+#ignore setup files
+/includes/setup.php
