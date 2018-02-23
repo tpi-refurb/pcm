@@ -4,3 +4,8 @@
 
 #ignore setup files
 /includes/setup.php
+includes/setup.php
+
+#ignore all pdf files inside attachments folder
+/attachments/**/*.pdf
+attachments/**/*.pdf
