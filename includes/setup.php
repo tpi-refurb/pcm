@@ -19,8 +19,8 @@ defined('JS_PATH') ? null : define ('JS_PATH',ASSETS_PATH.DS.'js');
 
 
 define( 'DB_HOST', 'localhost' );			#set database host
-define( 'DB_USER', 'tpi' );				#set database user
-define( 'DB_PASS', 'telcomtrix' );				#set database password
+define( 'DB_USER', 'root' );				#set database user
+define( 'DB_PASS', 'IdOntknOwWhAtIsthePa$$wordOfthIscAnyOgue$$?' );				#set database password
 define( 'DB_NAME', 'pcm' );					#set database name
 define( 'SEND_ERRORS_TO', 'marianzjr02@gmail.com' ); #set email notification email addressForgot password?
 
