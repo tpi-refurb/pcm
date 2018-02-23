@@ -15,7 +15,7 @@
 							<a href="<?php echo 'index.php?p='.encode_url('11').'&s='.encode_url('v');?>"><span class="icon icon-view-list icon-lg"></span>All List</a>
 						</li>					
 						<li>
-							<a href="<?php echo 'index.php?p='.encode_url('16');?>"><span class="icon icon-receipt icon-lg"></span>Reference Number</a>
+							<a href="<?php echo 'index.php?p='.encode_url('26');?>"><span class="icon icon-receipt icon-lg"></span>Reference Number</a>
 						</li>					
 						<li>
 							<a href="<?php echo 'index.php?p='.encode_url('16');?>"><span class="icon icon-assignment icon-lg"></span>Logs</a>

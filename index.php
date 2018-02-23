@@ -126,10 +126,14 @@ $content=PAGES_PATH.DS.'home.php';
             $title="Status Details";
             $content=PAGES_PATH.DS.'details_status.php';
             break;
-        case '25' :
-            $title="Recieved";
-            $content=PAGES_PATH.DS.'received.php';
-            break;
+		case '25' :
+			$title="Recieved";
+			$content=PAGES_PATH.DS.'received.php';
+			break;
+		case '26' :
+			$title="References";
+			$content=PAGES_PATH.DS.'references.php';
+			break;
         case '100' :
 			$title="Access Denied";
 			$content=PAGES_PATH.DS.'error.php';
